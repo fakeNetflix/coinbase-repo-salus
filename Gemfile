@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.4.6'
 
-gem 'activesupport', '~> 5.2', '>= 5.2.1'
+gem 'activesupport', '~> 5.2'
 gem 'brakeman', '~> 4.4'
 gem 'bugsnag', '~> 4.0'
 gem 'bundler', '~> 2'
